@@ -27,8 +27,6 @@
             goto(href);
         }
     }
-
-    $: console.log($page.state.pageNo, data.pageNo);
 </script>
 
 <div class={showChildPage ? 'hidden' : ''}>

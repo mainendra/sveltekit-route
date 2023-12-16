@@ -20,8 +20,6 @@
             goto(href);
         }
     }
-
-    $: console.log($page);
 </script>
 
 <h1>Settings</h1>
